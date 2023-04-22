@@ -1,0 +1,11 @@
+name: AchievmentVH
+version: '${project.version}'
+main: me.v0rham.achievmentvh.Main
+api-version: 1.19
+authors: [ V0rHaM ]
+
+commands:
+  menu:
+    usage: /<command>
+  pm:
+    usage: /<command>
